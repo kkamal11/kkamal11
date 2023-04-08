@@ -1,3 +1,5 @@
+<div align="center">kamal</div>
+
 Hello, I'm [Kamal👋](https://kishorkamal.netlify.app),<br>
 A python🐍 developer and a data science professional with a keen ineterest in developing elegant, efficient and highly interactive web applications. I am equally passionate about bringing alive the hidden insights of data and discover wonderful solutions to solve a problem.
 
