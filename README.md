@@ -15,6 +15,6 @@ I am a curious learner👀, able to pick up new skills as and when required, and
 If you believe too, then let us <a href="https://www.linkedin.com/in/kamal-kishor-chaurasiya-a22866192/">get in touch📫</a>.
 
 ## 📈Github Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkamal11&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Kamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkamal11&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkamal11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kkamal11)](https://git.io/streak-stats)
