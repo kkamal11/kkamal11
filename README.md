@@ -22,8 +22,8 @@ If you believe too, then let us <a href="https://www.linkedin.com/in/kamal-kisho
 </p>
 
 ## 📈📈Github Stats:
-[![Kamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkamal11&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkamal11&layout=compact&langs_count=10&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Kamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkamal11&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kkamal11)](https://git.io/streak-stats)
 
 <div align="center">
