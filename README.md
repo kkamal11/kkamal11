@@ -28,4 +28,5 @@ If you believe too, then let us <a href="https://www.linkedin.com/in/kamal-kisho
 
 <div align="center">
 ❤️
+<img width="100px" src="wave-hand.gif" alt="waving cat" />
 </div>
