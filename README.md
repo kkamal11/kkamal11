@@ -26,6 +26,7 @@ If you believe too, then let us <a href="https://www.linkedin.com/in/kamal-kisho
 [![Kamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkamal11&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kkamal11)](https://git.io/streak-stats)
 
+<hr>
 <div align="center">
 <img width="150px" src="wave-hand.gif" alt="waving cat" />
 </div>
