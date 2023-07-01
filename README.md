@@ -28,5 +28,8 @@ If you believe too, then let us <a href="https://www.linkedin.com/in/kamal-kisho
 
 <hr>
 <div align="center">
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=kkamal11&label=Profile%20Views&color=1&icon=2&pretty=true" />
+</a>
 <img width="150px" src="wave-hand.gif" alt="waving cat" />
 </div>
