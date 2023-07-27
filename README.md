@@ -21,10 +21,10 @@ If you believe too, then let us <a href="https://www.linkedin.com/in/kamal-kisho
   </a>
 </div>
 <div align="center">
-  <p>Currently Learning MERN...</p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&perline=8" />
   </a>
+  <span>Currently Learning MERN...</span>
 </div>
 
 ## 📈Github Stats:
