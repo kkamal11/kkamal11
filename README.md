@@ -15,17 +15,17 @@ I am a curious learner👀, able to pick up new skills as and when required, and
 If you believe too, then let us <a href="https://www.linkedin.com/in/kamal-kishor-chaurasiya-a22866192/">get in touch📫</a>.
 
 ## 💡Skills:
-<p align="center">
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,html,css,js,vue,flask,tailwind,linux,bash,java,postgres,redis,sqlite,postman,markdown,latex&perline=8" />
   </a>
-</p>
-<p align="center">
-  <p>Currently Learning...</p>
+</div>
+<div align="center">
+  <p>Currently Learning MERN...</p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&perline=8" />
   </a>
-</p>
+</div>
 
 ## 📈Github Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkamal11&layout=compact&langs_count=10&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)<br>
