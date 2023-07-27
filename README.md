@@ -20,6 +20,11 @@ If you believe too, then let us <a href="https://www.linkedin.com/in/kamal-kisho
     <img src="https://skillicons.dev/icons?i=py,html,css,js,vue,flask,tailwind,linux,bash,java,postgres,redis,sqlite,postman,markdown,latex&perline=8" />
   </a>
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&perline=8" />
+  </a>
+</p>
 
 ## 📈Github Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkamal11&layout=compact&langs_count=10&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)<br>
