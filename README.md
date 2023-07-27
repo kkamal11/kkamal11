@@ -21,6 +21,7 @@ If you believe too, then let us <a href="https://www.linkedin.com/in/kamal-kisho
   </a>
 </p>
 <p align="center">
+  <p>Currently Learning...</p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&perline=8" />
   </a>
