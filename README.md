@@ -17,7 +17,7 @@ If you believe too, then let us <a href="https://www.linkedin.com/in/kamal-kisho
 ## 💡Skills:
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,html,css,js,vue,flask,tailwind,linux,bash,java,postgres,redis,sqlite,postman,markdown,latex&perline=8" />
+    <img src="https://skillicons.dev/icons?i=py,html,css,js,vue,flask,tailwind,linux,bash,java,postgres,redis,sqlite,postman,markdown,latex,kafka,spring&perline=8" />
   </a>
 </div>
 <div align="center">
