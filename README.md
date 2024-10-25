@@ -1,8 +1,8 @@
 <div align="center">
   <img width="100px" src="git_cat.gif" alt="github cat" />
   <h1>Hey there, I am Kamal! <img width="37px" src="waving-hand-joypixels.gif" alt="github cat" /></h1>
-  <a href="https://kishorkamal.netlify.app">Website</a> | 
-   <a href="https://www.linkedin.com/in/kamal-kishor-chaurasiya-a22866192">LinkedIn</a> |
+  <a href="https://kishorkamal.netlify.app" target="_blank">Website</a> | 
+   <a href="https://www.linkedin.com/in/kkamal11" target="_blank">LinkedIn</a> |
    <a href="mailto:reachmeviamaill@gmail.com">Gmail</a>
 </div>
 
