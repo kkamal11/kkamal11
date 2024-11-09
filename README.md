@@ -1,10 +1,25 @@
 <div align="center">
-  <img width="100px" src="git_cat.gif" alt="github cat" />
-  <h1>Hey there, I am Kamal! <img width="37px" src="waving-hand-joypixels.gif" alt="github cat" /></h1>
-  <a href="https://kishorkamal.netlify.app" target="_blank">Website</a> | 
-   <a href="https://www.linkedin.com/in/kkamal11" target="_blank">LinkedIn</a> |
-   <a href="mailto:reachmeviamaill@gmail.com">Gmail</a>
+  <img width="100px" src="git_cat.gif" alt="GitHub cat" />
+  <h1 style="font-family: 'Arial', sans-serif; color: #333; font-size: 32px;">
+    Hey there, I'm Kamal! <img width="37px" src="waving-hand-joypixels.gif" alt="waving hand" />
+  </h1>
+  <p style="font-family: 'Arial', sans-serif; color: #555; font-size: 5px;">
+    I'm a passionate developer, technology aficionado, and data science & ML enthusiast.
+  </p>
+  <div>
+    <a href="https://kishorkamal.netlify.app" target="_blank">
+      <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
+    </a>
+    <a href="https://www.linkedin.com/in/kkamal11" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mailto:reachmeviamaill@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+  </div>
 </div>
+
+
 
 ## 🧑‍💻About Me:
 I am a **Python and Java developer**, as well as a data science professional with a passion for crafting **elegant, efficient, and highly interactive web applications**. Equally, I thrive on unlocking valuable insights from data, blending my skills in **machine learning**, **data science**, and **web development** to solve complex problems and deliver innovative solutions.
