@@ -22,9 +22,9 @@
 
 
 ## 🧑‍💻About Me:
-I am a **Python and Java developer**, as well as a data science professional with a passion for crafting **elegant, efficient, and highly interactive web applications**. Equally, I thrive on unlocking valuable insights from data, blending my skills in **machine learning**, **data science**, and **web development** to solve complex problems and deliver innovative solutions.
+I am a **Software developer**, as well as a data science professional with a passion for crafting **elegant, efficient, and highly interactive web applications**. Equally, I thrive on unlocking valuable insights from data, blending my skills in **machine learning**, **data science**, and **web development** to solve complex problems and deliver innovative solutions.
 
-My journey began with a course in Computational Thinking, after which I quickly honed skills in **mathematics**, **statistics**, **Python** and **Java** programming. This ignited my passion for **data science**, **machine learning**, and **web development**—fields I have since pursued with relentless focus and enthusiasm that enable me to create impactful projects, blending technical proficiency with creative problem-solving. 💻
+My journey began with a course in Computational Thinking, after which I quickly honed skills in **mathematics**, **statistics**, **Python**, and **Java** programming. This ignited my passion for **data science**, **machine learning**, and **web development**—fields I have since pursued with relentless focus and enthusiasm that enable me to create impactful projects, blending technical proficiency with creative problem-solving. 💻
 
 As a fast and adaptable learner, I am continually expanding my expertise, gaining proficiency in a diverse set of tools and technologies that push boundaries 🚀. Whether it's unlocking hidden patterns in data or engineering robust web solutions, I am committed to delivering high-quality, impactful results.💡
 
