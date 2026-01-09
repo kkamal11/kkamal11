@@ -4,7 +4,7 @@
     Hey there, I'm Kamal! <img width="37px" src="waving-hand-joypixels.gif" alt="waving hand" />
   </h1>
   <p style="font-family: 'Arial', sans-serif; color: #555; font-size: 5px;">
-    I'm a passionate developer, technology aficionado, and data science & ML enthusiast.
+    I'm a passionate Software developer, technology aficionado, and data science & ML/AI enthusiast.
   </p>
   <div>
     <a href="https://kishorkamal.netlify.app" target="_blank">
